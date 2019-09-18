@@ -1,0 +1,9 @@
+C:\Users\alicia.chocoza\Source\Repos\FSampleConsole\FSampleConsole\bin\Release\netcoreapp2.1\FSampleConsole.deps.json
+C:\Users\alicia.chocoza\Source\Repos\FSampleConsole\FSampleConsole\bin\Release\netcoreapp2.1\FSampleConsole.runtimeconfig.json
+C:\Users\alicia.chocoza\Source\Repos\FSampleConsole\FSampleConsole\bin\Release\netcoreapp2.1\FSampleConsole.runtimeconfig.dev.json
+C:\Users\alicia.chocoza\Source\Repos\FSampleConsole\FSampleConsole\bin\Release\netcoreapp2.1\FSampleConsole.dll
+C:\Users\alicia.chocoza\Source\Repos\FSampleConsole\FSampleConsole\bin\Release\netcoreapp2.1\FSampleConsole.pdb
+C:\Users\alicia.chocoza\Source\Repos\FSampleConsole\FSampleConsole\obj\Release\netcoreapp2.1\FSampleConsole.AssemblyInfoInputs.cache
+C:\Users\alicia.chocoza\Source\Repos\FSampleConsole\FSampleConsole\obj\Release\netcoreapp2.1\FSampleConsole.AssemblyInfo.fs
+C:\Users\alicia.chocoza\Source\Repos\FSampleConsole\FSampleConsole\obj\Release\netcoreapp2.1\FSampleConsole.dll
+C:\Users\alicia.chocoza\Source\Repos\FSampleConsole\FSampleConsole\obj\Release\netcoreapp2.1\FSampleConsole.pdb
